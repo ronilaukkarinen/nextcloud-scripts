@@ -11,7 +11,7 @@ This completely dependency-free script syncs a local directory to a Nextcloud We
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/yourusername/nextcloud-webdav-sync.git
+git clone https://github.com/ronilaukkarinen/nextcloud-scripts
 ```
 
 2. Install dependencies.
