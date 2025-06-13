@@ -1,8 +1,10 @@
-# Nextcloud scripts
+# ⚡ Nextcloud scripts
+
+![bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&color=%23222222&logo=gnu-bash&logoColor=white) ![Nextcloud](https://img.shields.io/badge/Nextcloud-%2300A2FF.svg?style=for-the-badge&logo=nextcloud&logoColor=white) ![WebDAV](https://img.shields.io/badge/WebDAV-%2300A2FF.svg?style=for-the-badge&logo=webdav&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
 
 Dependency free scripts for syncing files to Nextcloud.
 
-### WebDAV Sync script
+### WebDAV sync script
 
 This completely dependency-free script syncs a local directory to a Nextcloud WebDAV server.
 

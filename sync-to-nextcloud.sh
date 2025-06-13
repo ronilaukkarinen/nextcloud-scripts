@@ -1,5 +1,7 @@
 #!/bin/bash
 
+VERSION="1.0.0"
+
 # Load environment variables
 if [ -f .env ]; then
   export $(cat .env | grep -v '#' | xargs)
