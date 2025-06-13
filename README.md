@@ -1,6 +1,6 @@
 # ⚡ Nextcloud scripts
 
- ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge) ![bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&color=%23222222&logo=gnu-bash&logoColor=white) ![Nextcloud](https://img.shields.io/badge/Nextcloud-%2300A2FF.svg?style=for-the-badge&logo=nextcloud&logoColor=white)
+ ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge) ![Nextcloud](https://img.shields.io/badge/Nextcloud-%2300A2FF.svg?style=for-the-badge&logo=nextcloud&logoColor=white) ![bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&color=%23222222&logo=gnu-bash&logoColor=white)
 
 Dependency free scripts for syncing files to Nextcloud.
 
